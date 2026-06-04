@@ -1,0 +1,5 @@
+ROUTE ANALYTICS
+====================
+Dijkstra Cost: 68
+A* Cost: 202.15629545969315
+Difference: -134.15629545969315
